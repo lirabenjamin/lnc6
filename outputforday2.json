@@ -1,37 +1,205 @@
 [
-  {
-    "condition" : 1,
-    "writing_skill_mon": "1",
-    "PROLIFIC_PID": "5f8a9b2c3d4e5f6a7b8c9d0e",
-    "practice_submitted_text": "<p>Subject: Marketing Specialist Position</p><p>Dear Hiring Manager,</p><p>I am writing to express my interest in the Marketing Specialist position at your company. With my background in digital marketing and content creation, I believe I would be a strong addition to your team. I have experience managing social media campaigns and analyzing customer engagement metrics.</p><p>My previous role involved coordinating with cross-functional teams to develop marketing strategies that increased brand awareness. I am confident that my skills in project management and creative problem-solving would contribute to your marketing objectives.</p><p>Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to your organization.</p><p>Sincerely,</p><p>Alex Johnson</p>",
-    "practice_editor_text": "<p>Subject: Marketing Specialist Position</p><p>Dear Hiring Manager,</p><p>I am writing to express my strong interest in the Marketing Specialist position at your company. With my extensive background in digital marketing and content creation, I believe I would be a valuable addition to your dynamic team. I have proven experience managing successful social media campaigns and analyzing customer engagement metrics to drive strategic decisions.</p><p>My previous role involved coordinating with cross-functional teams to develop comprehensive marketing strategies that increased brand awareness by 35%. I am confident that my advanced skills in project management, data analysis, and creative problem-solving would significantly contribute to achieving your marketing objectives and driving growth.</p><p>Thank you for considering my application. I look forward to the opportunity to discuss how my expertise and passion can contribute to your organization's continued success.</p><p>Sincerely,</p><p>Alex Johnson</p>"
-  },
-  {
-    "condition" : 2,
-    "writing_skill_mon": "2",
-    "PROLIFIC_PID": "6a7b8c9d0e1f2a3b4c5d6e7f",
-    "practice_submitted_text": "<p>Subject: Sales Representative Position</p><p>Dear Hiring Team,</p><p>I am interested in the Sales Representative position posted on your website. I have worked in sales for three years and have experience with customer relationship management. I enjoy working with people and helping them find solutions to their needs.</p><p>In my current role, I meet monthly sales targets and maintain good relationships with clients. I am organized and can work independently or as part of a team.</p><p>I would appreciate the chance to interview for this position and discuss my qualifications further.</p><p>Best regards,</p><p>Sarah Chen</p>",
-    "practice_editor_text": "<p>Subject: Sales Representative Position</p><p>Dear Hiring Team,</p><p>I am writing to express my enthusiastic interest in the Sales Representative position posted on your website. I have worked in sales for three years and have extensive experience with customer relationship management systems and consultative selling techniques. I am passionate about working with people and helping them find innovative solutions to their business needs.</p><p>In my current role, I consistently exceed monthly sales targets by an average of 15% and maintain strong, long-term relationships with a portfolio of 50+ clients. I am highly organized, detail-oriented, and excel at working both independently and collaboratively as part of a dynamic sales team.</p><p>I would welcome the opportunity to interview for this position and discuss how my proven track record and enthusiasm can contribute to your sales organization's continued growth.</p><p>Best regards,</p><p>Sarah Chen</p>"
-  },
-  {
-    "condition" : 3,
-    "writing_skill_mon": "3",
-    "PROLIFIC_PID": "7b8c9d0e1f2a3b4c5d6e7f8a",
-    "practice_submitted_text": "<p>Subject: Data Analyst Position</p><p>Dear Sir/Madam,</p><p>I am applying for the Data Analyst position. I have a degree in Statistics and some experience with Excel and SQL. I think I would be good for this job because I like working with numbers and solving problems.</p><p>I have done some projects where I analyzed data and made reports. I am eager to learn new skills and contribute to your team.</p><p>Please let me know if you need any additional information.</p><p>Sincerely,</p><p>Mike Rodriguez</p>",
-    "practice_editor_text": "<p>Subject: Data Analyst Position</p><p>Dear Hiring Manager,</p><p>I am writing to express my strong interest in the Data Analyst position at your organization. I hold a Bachelor's degree in Statistics and have developed substantial experience with advanced analytical tools including Excel, SQL, Python, and Tableau. I am passionate about working with complex datasets and transforming raw data into actionable business insights.</p><p>Throughout my academic and professional experience, I have successfully completed multiple projects involving statistical analysis, predictive modeling, and comprehensive reporting. I have a proven track record of identifying trends, optimizing processes, and presenting findings to stakeholders in clear, compelling formats. I am committed to continuous learning and staying current with emerging analytical methodologies and technologies.</p><p>I would welcome the opportunity to discuss how my analytical expertise and enthusiasm for data-driven decision making can contribute to your organization's strategic objectives.</p><p>Sincerely,</p><p>Mike Rodriguez</p>"
-  },
-  {
-    "condition" : 1,
-    "writing_skill_mon": "1",
-    "PROLIFIC_PID": "8c9d0e1f2a3b4c5d6e7f8a9b",
-    "practice_submitted_text": "<p>Subject: Customer Service Representative</p><p>Hi,</p><p>I saw your job posting for customer service and wanted to apply. I have worked in retail for two years and am good at talking to customers. I am friendly and patient when dealing with difficult situations.</p><p>I can use computers and learn new systems quickly. I am available to work flexible hours including evenings and weekends.</p><p>Thanks for your time.</p><p>Jessica Park</p>",
-    "practice_editor_text": "<p>Subject: Customer Service Representative Position</p><p>Dear Hiring Manager,</p><p>I am writing to express my sincere interest in the Customer Service Representative position with your organization. I have two years of progressive experience in retail customer service, where I have developed exceptional communication skills and a genuine passion for helping customers resolve their concerns effectively.</p><p>Throughout my retail experience, I have consistently demonstrated my ability to remain friendly, professional, and patient when addressing challenging customer situations. I am highly proficient with various computer systems and have a proven ability to quickly master new software platforms and customer management tools. I am committed to providing outstanding service and am available to work flexible schedules, including evenings and weekends, to meet your operational needs.</p><p>Thank you for considering my application. I look forward to the opportunity to discuss how my customer service expertise and dedication can contribute to your team's success.</p><p>Sincerely,</p><p>Jessica Park</p>"
-  },
-  {
-    "condition" : 2,
-    "writing_skill_mon": "2",
-    "PROLIFIC_PID": "9d0e1f2a3b4c5d6e7f8a9b0c",
-    "practice_submitted_text": "<p>Subject: Project Manager Role</p><p>Dear Hiring Manager,</p><p>I am writing about the Project Manager position. I have managed several projects in my previous job and understand the importance of meeting deadlines and staying within budget. I have experience with project management software and working with different departments.</p><p>I am good at communication and problem-solving. I believe these skills would help me succeed in this role at your company.</p><p>I hope to hear from you soon.</p><p>Regards,</p><p>David Kim</p>",
-    "practice_editor_text": "<p>Subject: Project Manager Role</p><p>Dear Hiring Manager,</p><p>I am writing to express my strong interest in the Project Manager position at your organization. I have successfully managed multiple complex projects in my previous role, consistently delivering results on time and within budget while exceeding stakeholder expectations. I have extensive experience with industry-leading project management software including Microsoft Project, Asana, and Jira, and have effectively coordinated cross-functional teams across various departments.</p><p>My core strengths include strategic planning, stakeholder communication, risk management, and creative problem-solving. I have a proven track record of implementing process improvements that increase efficiency and reduce costs. I am confident that my leadership abilities and systematic approach to project management would enable me to drive successful outcomes and contribute significantly to your organization's strategic objectives.</p><p>I would welcome the opportunity to discuss how my project management expertise can support your team's continued success.</p><p>Regards,</p><p>David Kim</p>"
-  }
+    {
+        "condition": 3,
+        "writing_skill_mon": 6,
+        "PROLIFIC_PID": "test1",
+        "practice_submitted_text": "<p>Subject: Administrative Assistant Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my sincere interest in the Administrative Assistant position at your company. As a highly organized professional with a passion for supporting team productivity and maintaining efficient operations, I am excited about the opportunity to contribute to your administrative team's success. Throughout my career, I have consistently demonstrated my in the following:<\/p>\n<ul>\n<li>my ability to manage multiple priorities,<\/li>\n<li>coordinate meetings and events, and<\/li>\n<li>provide exceptional administrative support to executives and teams.<\/li>\n<\/ul>\n<p>My track record of excellence includes implementing filing systems that improved document retrieval, managing complex calendars with precision, and collaborating with various departments to ensure smooth daily operations. I am confident that my organizational skills, professional demeanor, and thorough understanding of office management would make me a valuable addition to your organization. I am particularly drawn to your company's collaborative work environment and reputation for supporting employee growth. I would welcome the opportunity to bring my efficiency and reliability to your team and help maintain your company's high standards of operational excellence.<\/p>\n<p>Sincerely,<\/p>\n<p>Isabella<\/p>",
+        "practice_editor_text": "<p>Test 1<\/p>"
+    },
+    {
+        "condition": 3,
+        "writing_skill_mon": 8,
+        "PROLIFIC_PID": "test2",
+        "practice_submitted_text": "<p>Subject: Human Resources Specialist Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my keen interest in the Human Resources Specialist position at your company. As a people-focused professional with a passion for talent development and organizational culture, I would be excited to contribute to your HR team's success. Throughout my career, I have consistently supported recruitment efforts, facilitated employee training programs, and maintained compliance with employment regulations.<\/p>\n<p>My track record of success includes the following:<\/p>\n<ul>\n<li>&nbsp;streamlining hiring processes<\/li>\n<li>implementing employee engagement initiatives<\/li>\n<li>collaborating with management teams to address workforce challenges effectively.<\/li>\n<\/ul>\n<p>&nbsp;I am confident that my interpersonal skills, attention to details, and comprehensive understanding of HR practices would make me a valuable additoin to your organization. I am particularly attracted to your company's employee-centric culture and commitment to professional development opportunities. I would like to to bring my expertise and enthusiasm to your team and help support your company's most important asset &ndash; its people. Please let me know if there is an opportunity available to interview for this position.<\/p>\n<p>Sincerely,<\/p>\n<p>Maria<\/p>",
+        "practice_editor_text": "<p>Test2<\/p>"
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 6,
+        "PROLIFIC_PID": "5d7ff85ffec5620017b07c40",
+        "practice_submitted_text": "<p>Subject: Customer Service Representative Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my sincere interest in your Customer Service Representative. As a dedicated professional I am excited about the opportunity to contribute to your customer success team. Throughout my career, I have consistently demonstrated my ability to handle challenging situations with patience, provide exceptional support experiences, and maintain high customer satisfaction ratings.<\/p>\n<p>My track record of excellence includes receiving positive feedback from customers, implementing efficient resolution processes, and working collaboratively with various departments. I am confident that my empathetic communication style, problem-solving abilities, and thorough understanding of customer service would make me a valuable addition to your organization. I am particularly impressed by your company's commitment to customer excellence and reputation for outstanding service quality. I would welcome the opportunity to bring my dedication and expertise to your team.<\/p>\n<p>Sincerely,<\/p>\n<p>Sophia<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 3,
+        "writing_skill_mon": 7,
+        "PROLIFIC_PID": "66b41d5d3c2a978a7aac2264",
+        "practice_submitted_text": "<p>Subject: Human Resources Specialist Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my keen interest in the Human Resources Specialist position at your company. I am a people-focused professional with a passion for talent development .&nbsp; I am excited contributing to your HR team's success. Throughout my career, I have consistently demonstrated my ability to support recruitment efforts, facilitate employee training programs, and maintain compliance with employment regulations.<\/p>\n<p>My track record of success includes streamlining hiring processes, implementing employee engagement initiatives, and collaborating with management teams. . I am confident that my skills, attention, and comprehensive understanding of HR practices would make me a valuable contributor to your organization. I am particularly attracted to your company's employee-centric culture and commitment to professional development opportunities. I would welcome the opportunity to bring my expertise and enthusiasm to your team and help support your company's most important asset &ndash; its people.<\/p>\n<p>Sincerely,<\/p>\n<p>Maria<\/p>",
+        "practice_editor_text": "<p>test3<\/p>"
+    },
+    {
+        "condition": 3,
+        "writing_skill_mon": 8,
+        "PROLIFIC_PID": "6740ff6c64f4f8e0f255aaa1",
+        "practice_submitted_text": "<p>Subject: Operations Manager Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my interest in the Operations Manager position at your company.<\/p>\n<p>I am results-driven with a talent for optimization and team leadership. Throughout my career, I have consistently delivered results with my ability to improve efficiency metrics, implement quality control measures, and manage supply chain relationships effectively.<\/p>\n<p>I would welcome the opportunity to bring my experience and strategic vision to your team.<\/p>\n<p>Sincerely,<\/p>\n<p>Rachel<\/p>",
+        "practice_editor_text": "<p>test4<\/p>"
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 4,
+        "PROLIFIC_PID": "6400e3697879c55c323f34d0",
+        "practice_submitted_text": "<p>Subject: Project Manager Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I'd like to apply for your project manager position.I have the experience needed and the enthusiasm to contribute to your team. Throughout my career, I strive to respect the budget of a project and meet deadlines.&nbsp;<\/p>\n<p>My track record of accomplishment includes:<\/p>\n<ul>\n<li>Successfully completing multiple high-priority projects,&nbsp;<\/li>\n<li>Reducing project timelines through process improvements,&nbsp;<\/li>\n<li>Fostering collaboration among cross-functional teams to achieve deliverables.<\/li>\n<\/ul>\n<p>I have confidence my skillset and accomplishments give me an edge.I admire your company's values and innovation and would appreciate the opportunity to show you what I can do!&nbsp;<\/p>\n<p>Sincerely,<\/p>\n<p>David<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 2,
+        "writing_skill_mon": 4,
+        "PROLIFIC_PID": "669a800eaf38a94d6ecc4227",
+        "practice_submitted_text": "<p>Subject: Customer Service Representative Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my interest in the Customer Service Representative position at your company. As a professional with a passion for helping others and resolving complex issues, I am excited about the opportunity to contribute to your customer success team.<\/p>\n<p>Throughout my career, I have:<\/p>\n<ul>\n<li>handled challenging situations with patience<\/li>\n<li>provided exceptional support experiences<\/li>\n<li>maintained high customer satisfaction ratings<\/li>\n<li>put in place efficient resolution processes<\/li>\n<li>worked collaboratively with various departments to ensure seamless service<\/li>\n<\/ul>\n<p>I am confident that my thorough understanding of customer service best practices would make me a valuable addition to your organization. I would like the opportunity to bring my expertise to your team and help maintain your company's high standards of customer care. Thank you for considering my application, I look forward to hearing from you!<\/p>\n<p>Sincerely,<\/p>\n<p>Sophia<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 5,
+        "PROLIFIC_PID": "66d0a375c1c8aa9cac493997",
+        "practice_submitted_text": "<p>Subject: Marketing Coordinator Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my interest in the Marketing Coordinator position at your company. As a creative and talented professional, I am thrilled about the opportunity to contribute to your team's success. Throughout my career, I have consistently demonstrated the following:<\/p>\n<ul>\n<li>Ability to create engaging content.<\/li>\n<li>Manage social media platforms.<\/li>\n<li>Executed integrated marketing strategies that drive brand awareness.<\/li>\n<\/ul>\n<p>My track record of achievement includes successfully launching product campaigns, increasing social media engagement, and creating impactful marketing materials. I am confident that my analytical mindset, creative problem-solving skills, and comprehensive understanding of digital marketing would make me a valuable contributor to your organization. I am particularly attracted to your company's forward-thinking approach and commitment to innovation in the marketplace. I would welcome the opportunity to bring my creativity and strategic thinking to your team.&nbsp;<\/p>\n<p>Sincerely,<\/p>\n<p>Marcus<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 7,
+        "PROLIFIC_PID": "611842195ebcbb197bc11c0e",
+        "practice_submitted_text": "<p>Subject: Business Analyst Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my interest in the Business Analyst position at your company. My experience includes:<\/p>\n<ul>\n<li>Gathering and analyzing business requirements<\/li>\n<li>Identifying business opportunities<\/li>\n<li>Optimizing processes<\/li>\n<li>Creating detailed process documentation<\/li>\n<li>Facilitating communication between technical and business stakeholders<\/li>\n<li>Conducting market research<\/li>\n<li>Developing business cases that secured project funding<\/li>\n<\/ul>\n<p>I am particularly attracted to your company's data-driven approach and reputation for strategic innovation.<\/p>\n<p>Sincerely,<\/p>\n<p>Nicole<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 9,
+        "PROLIFIC_PID": "674b46167ee0a18a0c33d647",
+        "practice_submitted_text": "<p>Subject: Account Manager Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my strong interest in the Account Manager position at your company. As a relationship-focused professional with a talent for client retention and account growth, I want to contribute to your account management team's success. In my career, I have demonstrated my ability to:<\/p>\n<ul>\n<li>build lasting client relationships<\/li>\n<li>identify upselling opportunities<\/li>\n<li>resolve client concerns to ensure satisfaction and loyalty<\/li>\n<\/ul>\n<p>My track record of excellence includes:<\/p>\n<ul>\n<li>maintaining high client retention rates<\/li>\n<li>growing account revenue through strategic relationship building<\/li>\n<li>collaborating with internal teams to deliver solutions&nbsp;<\/li>\n<\/ul>\n<p>I am confident that my communication skills, strategic thinking, and extensive understanding of account management principles would make me a valuable addition to your organization. I like your company's client-centric approach and reputation for delivering exceptional service experiences. I would welcome the opportunity to bring my relationship management expertise and client focus to your team and help drive your company's account growth and client satisfaction.<\/p>\n<p>Sincerely,<\/p>\n<p>Riley<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 3,
+        "writing_skill_mon": 5,
+        "PROLIFIC_PID": "63d13e2a6dd3ec4a5f6bff7b",
+        "practice_submitted_text": "<p>Subject: Graphic Designer Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my sincere interest in the Graphic Designer position at your organization. I have a passion for visual storytelling and brand development. I am excited to have an opportunity to contribute to your team. I am able to create compelling visual designs, develop brand identity systems, and collaborate with marketing teams to produce impactful campaigns.<\/p>\n<p>My track record of achievement includes designing award-winning marketing materials, creating cohesive brand guidelines that strengthened company identity, and working with diverse clients to bring their creative visions to life. I am confident that my artistic abilities, technical proficiency in design software, and thorough understanding of design principles would make me a valuable asset to your organization. I am particularly drawn to your company's innovative brand presence and commitment to creative excellence. I would like the opportunity to help<\/p>\n<p>Sincerely,<\/p>\n<p>Ethan<\/p>",
+        "practice_editor_text": "<p>test5<\/p>"
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 5,
+        "PROLIFIC_PID": "656f2db1e45a8e27d322392d",
+        "practice_submitted_text": "<p>Subject: Sales Representative Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my strong interest in the Sales Representative position at your company. I am a results-driven professional with a proven track record of exceeding sales targets and driing revenue growth.&nbsp;<\/p>\n<p>My experience includes consistantly surpassing quotas, implementing effective sales strategies, and building strong client relationships. My communication, persuasion, and sales technique skills are strong assests.<\/p>\n<p>I am impressed by your companys reputation and innovation. I am confidant I can bring alue and contribute to your continued growth.<\/p>\n<p>Sincerely<\/p>\n<p>Jalen<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 2,
+        "writing_skill_mon": 7,
+        "PROLIFIC_PID": "671ab0904de8eb7273ae9d42",
+        "practice_submitted_text": "<p>Subject: Human Resources Specialist Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing in regards to the Human Resources Specialist position at your company. As a professional with a passion for talent development and organizational culture, I am excited about the opportunity to contribute to your HR team's success.&nbsp; In my career, I have demonstrated my ability to support recruitment efforts, facilitate employee training programs, and maintain compliance with employment regulations.<\/p>\n<p>My track record of success includes streamlining hiring processes, implementing employee engagement initiatives, and collaborating with management teams to address workforce challenges effectively.&nbsp; My interpersonal skills, attention to regulatory details, and comprehensive understanding of HR practices would make me a valuable contributor to your organization. I am attracted to your company's employee-centric culture and commitment to professional development opportunities. I would welcome the opportunity to bring my expertise and enthusiasm to your team and help support your company's most important asset &ndash; its people.<\/p>\n<p>Sincerely,<\/p>\n<p>Maria<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 2,
+        "writing_skill_mon": 9,
+        "PROLIFIC_PID": "66b9c975ddf449c63c6f5a40",
+        "practice_submitted_text": "<p>Subject: Quality Assurance Tester Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my sincere interest in the Quality Assurance Tester position at your organization. As a meticulous professional with a passion for ensuring product excellence and identifying potential issues, I am eager to explore the opportunity to contribute to your Quality Assurance team's success. Throughout my career, I have consistently demonstrated the following:<\/p>\n<ul>\n<li>Ability to design comprehensive test plans<\/li>\n<li>Execution of thorough testing procedures<\/li>\n<li>Documented findings that improved product quality<\/li>\n<\/ul>\n<p>In addition, my track record of achievement includes:&nbsp;<\/p>\n<ul>\n<li>Identifying critical bugs prior to product releases<\/li>\n<li>Developing automated testing scripts that improved efficiency<\/li>\n<li>Working closely with development teams to ensure rapid issue resolution and continuous improvement<\/li>\n<\/ul>\n<p>I am confident that my analytical skills, attention to detail, and thorough understanding of testing methodologies would make me a valuable asset to your organization. I am particularly impressed by your company's commitment to product quality, and reputation for delivering reliable solutions. I would welcome the opportunity to bring my testing expertise and quality focus to your team, and help to maintain your company's high standards of product excellence.<\/p>\n<p>Sincerely,<\/p>\n<p>Christopher<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 5,
+        "PROLIFIC_PID": "63671bfc81a5eca4218b6417",
+        "practice_submitted_text": "<p>Subject: Financial Analyst Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am interested in the Financial Analyst position at your organization. I have a variety of skills that can contribute to your team's success:<\/p>\n<ul>\n<li>Detail-oriented<\/li>\n<li>Data analysis<\/li>\n<li>Financial forecasting<\/li>\n<li>Automated financial reporting systems<\/li>\n<li>Identifying cost-saving opportunities<\/li>\n<li>Strategic decision-making<\/li>\n<\/ul>\n<p>These skills have led to improved profitability and ensuring financial transparency. I am confident that I can do the same for you and be a valuable asset to your organization. I am particularly impressed by your company's performance and welcome the opportunity to work for your team.<\/p>\n<p>Sincerely,<\/p>\n<p>Jonathan<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 6,
+        "PROLIFIC_PID": "669ecc103e43370cd5ace699",
+        "practice_submitted_text": "<p>Subject: Account Manager Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my interest in your company's Account Manager position. As a relationship-focused professional with a talent for client retention and account growth, I am excited about the opportunity to contribute to your account management team's success. Throughout my career, I have demonstrated my ability to build client relationships, identify upselling opportunities, and resolve client concerns to ensure satisfaction and loyalty.<\/p>\n<p>My track record includes:<\/p>\n<ul>\n<li>Maintaining high client retention rates<\/li>\n<li>Using strategic relationship building to grow account revenue<\/li>\n<li>Collaborating with internal teams to deliver solutions that meet client needs and exceed expectations. I<\/li>\n<\/ul>\n<p>I am confident that my communication skills, strategic thinking, and extensive understanding of account management principles would make me a valuable addition to your organization. I am drawn to your company's client-centric approach and reputation for delivering exceptional service experiences. I would welcome the opportunity to bring my relationship management expertise and client focus to your team, and help drive your company's account growth and client satisfaction.<\/p>\n<p>Sincerely,<\/p>\n<p>Riley<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 8,
+        "PROLIFIC_PID": "5efa81523080998c396d15d7",
+        "practice_submitted_text": "<p>Subject: Event Coordinator Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am interested in the Event Coordinator position at your company. As an organized professional skilled in planning memorable experiences and managing complex logistics, I am excited about the opportunity to contribute to your events team's success. Throughout my career, I have consistently demonstrated my ability to coordinate successful events from conception to completion, manage vendor relationships, and ensure exceptional attendee experiences.<\/p>\n<p>My track record of success includes: planning corporate events, negotiating vendor contracts, and collaborating with marketing teams. I am confident that my project management abilities, creative problem-solving skills, and extensive knowledge of event planning would benefit your organization. I am particularly drawn to your company's reputation for hosting innovative events and commitment to creating meaningful connections. I would welcome the opportunity to bring my skills and vision to your team and help deliver exceptional events that support your company's goals.<\/p>\n<p>Sincerely,<\/p>\n<p>Ashley<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 9,
+        "PROLIFIC_PID": "6744285c976a060c17a7a1a3",
+        "practice_submitted_text": "<p>Subject: Project Manager Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am highly interested in the <strong>Project Manager<\/strong> position at your organization. As a professional with a talent for <strong>coordination<\/strong> and <strong>leadership<\/strong>, I'm excited to contribute to your project management office's success.<\/p>\n<p><span style=\"text-decoration: underline;\">My career achievements show my ability to:<\/span><\/p>\n<ul>\n<li>Deliver projects on time and within budget<\/li>\n<li>Manage stakeholder expectations<\/li>\n<li>Implement effective project methodologies<\/li>\n<\/ul>\n<p><span style=\"text-decoration: underline;\">My track record consists of:<\/span><\/p>\n<ul>\n<li>Successfully completing multiple high-priority projects<\/li>\n<li>Reducing project timelines through process improvements<\/li>\n<li>Fostering collaboration among cross-functional teams to achieve deliverables<\/li>\n<\/ul>\n<p>I am confident that I would bring value to your organization with my <strong>management framework<\/strong> <strong>experience<\/strong>&nbsp;and <strong>attention to detail<\/strong>. Your company's reputation for innovation and excellence is admirable. I would love the opportunity to use organization and strategy to <strong>improve<\/strong> your company's project <strong>success<\/strong> and <strong>efficiency<\/strong>.<\/p>\n<p>Sincerely,<\/p>\n<p>David<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 2,
+        "writing_skill_mon": 8,
+        "PROLIFIC_PID": "675f39b4f456470edbd376e1",
+        "practice_submitted_text": "<p>Subject: Social Media Manager Position (Message from Canidate)<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>Good afternoon. I am writing to express my interest in your Social Media Manager position. As a digital professional with a talent for creating engaging content and building online communities, I am excited about the opportunity to contribute to your digital marketing team's success. Throughout my career, I have consistently demonstrated my ability to develop social media strategies, create viral content campaigns, and analyze performance metrics to optimize engagement.<\/p>\n<p>My track record includes growing massive follower bases across platforms, creating increased brand awareness through content, and collaborating with brand partners to expand reach. I am confident that my creative abilities and strategic thinking would make me a valuable addition to your organization. I would welcome the opportunity to bring my social media expertise and creative energy to your team. Toegther we can help amplify your company's online presence and community engagement.<\/p>\n<p>Sincerely,<\/p>\n<p>Taylor<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 7,
+        "PROLIFIC_PID": "65577234800b1fea9ae3cf4d",
+        "practice_submitted_text": "<p>Subject: Quality Assurance Tester Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I express my sincere interest in the Quality Assurance Tester position at your organization. As a meticulous professional with a passion for ensuring product excellence and identifying potential issues, I am thrilled about the opportunity to contribute to your QA team's success. Throughout my career, I have consistently demonstrated my ability to design comprehensive test plans, execute thorough testing procedures, and document findings that improve product quality.<\/p>\n<p>Also, my track record of achievement includes identifying critical bugs before product releases, developing automated testing scripts that improved efficiency, and working closely with development teams to ensure rapid issue resolution and continuous improvement. I am confident that my analytical mindset, attention to detail, and thorough understanding of testing methodologies would make me a valuable asset to your organization. I am particularly attracted to your company's commitment to product quality and reputation for delivering reliable solutions. I would welcome the opportunity to bring my testing expertise and quality focus to your team and help maintain your company's high standards of product excellence.<\/p>\n<p>Sincerely,<\/p>\n<p>Christopher<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 3,
+        "writing_skill_mon": 6,
+        "PROLIFIC_PID": "68114b50b766b8f5b3b6cc8e",
+        "practice_submitted_text": "<p>Subject: Operations Manager Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my interest in the Operations Manager position. As a seasoned professional with experience in&nbsp; leading operational teams, I am excited about the opportunity to contribute to the team.&nbsp; I have consistently demonstrated my ability to improve efficiency metrics, implement quality control measures, and manage supply chain.<\/p>\n<p>My track record of success includes reducing operational costs through process improvements, increasing productivity by implementing new workflows, and collaborating with cross-functional teams to ensure seamless operations across all departments. I am confident that my leadership skills, analytical mindset, and extensive understanding of operational best practices would make me a valuable contributor to your organization. I am particularly impressed by your company's commitment to operational excellence and sustainable business practices. I would welcome the opportunity to bring my experience and strategic vision to your team and help drive your company's operational efficiency and growth.<\/p>\n<p>Sincerely,<\/p>\n<p>Rachel<\/p>",
+        "practice_editor_text": "<p>7<\/p>"
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 3,
+        "PROLIFIC_PID": "64a2be5c2053c3002cf8bbfc",
+        "practice_submitted_text": "<p>Subject: Data Entry Specialist Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>Thank you for the opportunity to apply for the&nbsp; Data Entry Specialist position at your organization.&nbsp; I am a very detail-oriented professional , accurate and efficent in data management . Throughout my career, I have consistently demonstrated my ability and success to input large volumes of data with precision,&nbsp; integrity, and meet tight deadlines while ensuring quality standards.&nbsp;<\/p>\n<p>My track record includes high accuracy rates and developing quality control procedures that reduced errors . I have successfully worked with various departments to ensure data consistency across systems. I am confident that my attention to detail, typing proficiency, and thorough understanding of data management principles would make me a valuable asset to your organization. I would welcome the opportunity to bring my precision and reliability to your team and help maintain your company's high standards of data quality and processing efficiency.<\/p>\n<p>Sincerely,<\/p>\n<p>Michael<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 2,
+        "writing_skill_mon": 7,
+        "PROLIFIC_PID": "66e9bdb86f599f239c1ea24e",
+        "practice_submitted_text": "<p>Subject: Marketing Coordinator Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>It is with great enthusiasm that I am applying for the Marketing Coordinator position at your organization. With a experience in developing compelling campaigns and analyzing market trends, creating engaging content, managing social media platforms, and formulating strategies that drive brand awareness.<\/p>\n<p>My track record of achievement includes successfully launching product campaigns, increasing social media engagement by significant percentages, and collaborating with design teams to create impactful marketing materials. I am confident that my expertise I can bring great contributions to your team. I am particularly attracted to your company's forward-thinking approach and commitment to innovation in the marketplace. I would welcome the opportunity to bring my creativity and strategic thinking to your team and help elevate your brand's presence and impact. Can we schedule a time to discuss how I can helpstrenghten your brand's presence?<\/p>\n<p>Sincerely,<\/p>\n<p>Marcus<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 3,
+        "writing_skill_mon": 7,
+        "PROLIFIC_PID": "6766c25793c13fc95c767574",
+        "practice_submitted_text": "<p>Subject: Application for Customer Service Representative Role<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am excited to apply for the Customer Service Representative position. I enjoy helping people and solving problems, and I have years of experiencedoing both in customer service role.&nbsp;<br><br>In past jobs, I have been praised for my patience, communication skills, and ability to keep customers happy. I have also worked closely with other teams to solve issues quickly and smoothly.&nbsp;<\/p>\n<p>I admire your company's strong reputation for service. I would love to join your team and help keep that standard high.&nbsp;<br><br>Thank you for considering my application.&nbsp;<\/p>\n<p>Best regards,<\/p>\n<p>Sophia<\/p>",
+        "practice_editor_text": "<p>test 5<\/p>"
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 6,
+        "PROLIFIC_PID": "614fbb4467c4c74f573a94d3",
+        "practice_submitted_text": "<p>Subject: Graphic Designer Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I write to express my sincere interest in the Graphic Designer position at your organization. As a creative professional with a passion for visual storytelling and brand development, I am thrilled about the opportunity to contribute to your creative team's success. Throughout my career, I have consistently created compelling visual designs, develop brand identity systems, and produced impactful campaigns with marketing teams.<\/p>\n<p>My achievements includes designing award-winning marketing materials, creating cohesive brand guidelines that strengthened company identity, and working with diverse clients to bring their creative visions to life. I am confident that my artistic abilities, technical proficiency in design software, and thorough understanding of design principles would make me a valuable asset to your organization. I am particularly drawn to your company's innovative brand presence and commitment to creative excellence. I welcome the opportunity to bring my creativity and design expertise to your team and help elevate your company's visual communication and brand impact.<\/p>\n<p>Sincerely,<\/p>\n<p>Ethan<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 1,
+        "writing_skill_mon": 6,
+        "PROLIFIC_PID": "67e23f61d6642c6710f62686",
+        "practice_submitted_text": "<p>Subject: Social Media Manager Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express my strong interest in the Social Media Manager position at your company. As a digitally savvy professional with a talent for creating engaging content and building online communities, I am excited about the opportunity to contribute to your digital marketing team's success. Throughout my career, I have consistently demonstrated my ability to develop social media strategies, create viral content campaigns, and analyze performance metrics to optimize engagement.<\/p>\n<p>I am exelent in growing follower bases significantly across multiple platforms, creating content that increased brand awareness and customer engagement, and collaborating with influencers and brand partners to expand reach and impact. I am confident that my creative abilities, strategic thinking, and comprehensive understanding of social media platforms would make me a valuable addition to your organization. I am particularly impressed by your company's authentic brand voice and innovative approach to digital communication. I would welcome the opportunity to bring my social media expertise and creative energy to your team and help amplify your company's online presence and community engagement.<\/p>\n<p>Sincerely,<\/p>\n<p>Taylor<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 2,
+        "writing_skill_mon": 9,
+        "PROLIFIC_PID": "682e2024114ae6320fad7017",
+        "practice_submitted_text": "<p>Subject: Social Media Manager Position<\/p>\n<p data-start=\"249\" data-end=\"269\">Dear Hiring Manager,<\/p>\n<p data-start=\"271\" data-end=\"504\">I&rsquo;m excited to apply for the Social Media Manager role at your company. With a strong background in content creation, community building, and strategy development, I bring both creativity and data-driven insight to digital marketing.<\/p>\n<p data-start=\"506\" data-end=\"772\">I&rsquo;ve led successful campaigns that boosted engagement and brand awareness, grown multi-platform follower bases, and partnered with influencers to extend reach. My experience analyzing performance metrics allows me to continually refine strategies for maximum impact.<\/p>\n<p data-start=\"774\" data-end=\"954\">Your company&rsquo;s authentic brand voice and innovative digital presence resonate with me. I&rsquo;d welcome the chance to contribute my skills and energy to help grow your online community.<\/p>\n<p data-start=\"956\" data-end=\"979\">Sincerely,<br data-start=\"966\" data-end=\"969\"><strong data-start=\"969\" data-end=\"979\">Taylor<\/strong><\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 2,
+        "writing_skill_mon": 8,
+        "PROLIFIC_PID": "62c35e9517e15b36b957a678",
+        "practice_submitted_text": "<p>Subject: Data Entry Specialist Position<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I am writing to express genuine interest in the Data Entry Specialist position. As a detail-oriented professional with a passion for accuracy and efficient data management, I am enthusiastic about contributing to your data processing team's success. Throughout my career, I have consistently demonstrated my ability to input large volumes of data with precision, maintain database integrity, and meet tight deadlines while ensuring quality standards.<\/p>\n<p>My accomplishments include achieving high accuracy rates in data entry tasks, developing quality control procedures that reduced errors, and working collaboratively with various departments to ensure data consistency across systems. I am confident that my attention to detail, typing proficiency, and thorough understanding of data management principles would make me a valuable asset to your organization. I am particularly impressed by your company's commitment to data accuracy and technological infrastructure. I would like to bring my precision and reliability to your team and help maintain your company's high standards of data quality and processing efficiency.<\/p>\n<p>Sincerely,<\/p>\n<p>Michael<\/p>",
+        "practice_editor_text": null
+    },
+    {
+        "condition": 3,
+        "writing_skill_mon": 8,
+        "PROLIFIC_PID": "673378009f99d14c232c1f2b",
+        "practice_submitted_text": "<p>Subject: Marketing Coordinator Position<\/p>\n<p>&nbsp;<\/p>\n<p>Dear Hiring Manager,<\/p>\n<p>I'm writing to express interest in the <span style=\"text-decoration: underline;\">Marketing Coordinator<\/span> position.&nbsp;<\/p>\n<p>As a creative professional in developing compelling campaigns and&nbsp;analyzing market trends.<\/p>\n<p>I'm thrilled about the opportunity to contribute to your marketing team's success. I've consistently demonstrated my ability to create engaging content, manage social media platforms, and execute integrated marketing strategies that drive brand awareness such as:<\/p>\n<ul>\n<li>launching product campaigns<\/li>\n<li>increasing social media engagement<\/li>\n<li>collaborating with design teams<\/li>\n<\/ul>\n<p>I'm confident my analytical mindset, creative problem-solving skills, and comprehensive understanding of digital marketing will make me a valuable contributor. I'm particularly attracted to your company's forward-thinking approach and commitment to innovation in the marketplace. I welcome the opportunity to bring my creativity and strategic thinking to your team and help elevate your brand's presence and impact.<\/p>\n<p>&nbsp;<\/p>\n<p>Sincerely,<\/p>\n<p>&nbsp;<\/p>\n<p>Marcus<\/p>",
+        "practice_editor_text": "<p>6<\/p>"
+    }
 ]
